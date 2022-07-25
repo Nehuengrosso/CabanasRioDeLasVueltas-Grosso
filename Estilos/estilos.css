@@ -1,0 +1,15 @@
+.imagen-body-cabanas {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.imagen-body-nieve {
+  width: 100%;
+  border-radius: 10px;
+  height: 300px;
+}
+
+#descripcion {
+  background-color: #f1f1f1;
+  padding: 10px 0;
+}/*# sourceMappingURL=estilos.css.map */
